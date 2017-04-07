@@ -1,15 +1,15 @@
 {
   "name": "mithril-global-types-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mithril global types test",
   "main": "index.js",
   "keywords": [],
   "author": "spacejack",
   "license": "MIT",
   "devDependencies": {
-    "@types/mithril-global": "github:spacejack/mithril-global.d.ts#dt-global",
-    "tslint": "^4.5.1",
-    "typescript": "^2.2.1"
+    "@types/mithril-global": "github:spacejack/mithril-global.d.ts#1.1.1",
+    "tslint": "^5.0.0",
+    "typescript": "^2.2.2"
   },
   "scripts": {
     "test": "tsc"
